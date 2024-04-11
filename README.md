@@ -1,4 +1,5 @@
-# docTR Implementation
+# docTR Example
+All credits to https://github.com/mindee/doctr
 ## Pre requisites
 - Conda or Miniconda
 ## Steps to use
